@@ -1,0 +1,20 @@
+header .navbar-nav li {
+    margin: 0.5rem 1rem;
+}
+
+header .navbar-nav li a {
+    color: #3c3e41;
+    font-weight: 600;
+    position: relative;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+header .navbar-nav li.active a {
+    color: #ff014f;
+}
+
+header .navbar-toggler {
+    box-shadow: none;
+    line-height: 1.3;
+}
